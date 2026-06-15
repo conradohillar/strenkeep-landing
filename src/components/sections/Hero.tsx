@@ -1,6 +1,4 @@
-import { Play, Smartphone, Zap, MapPin } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
+import { MapPin } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const SETS = [

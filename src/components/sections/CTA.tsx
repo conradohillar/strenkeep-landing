@@ -1,5 +1,4 @@
-import { Play, Smartphone } from 'lucide-react'
-import { Button } from '@/components/ui/button'
+
 
 export default function CTA() {
   return (
